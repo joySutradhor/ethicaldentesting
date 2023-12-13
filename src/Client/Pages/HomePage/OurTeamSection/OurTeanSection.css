@@ -1,0 +1,63 @@
+@font-face {
+    font-family: rota-bold;
+    src: url('../../../../fonts/Rota/Rota-Bold.otf');
+}
+@font-face {
+    font-family: rota-medium;
+    src: url('../../../../fonts/Rota/Rota-Medium.otf');
+}
+@font-face {
+    font-family: rota-light;
+    src: url('../../../../fonts/Rota/Rota-Light.otf');
+}
+@font-face {
+    font-family: rota-regular;
+    src: url('../../../../fonts/Rota/Rota-Regular.otf');
+}
+
+
+
+@font-face {
+    font-family: ethos-nova-medium;
+    src: url('../../../../fonts/ethos-nova/EthosNova-Medium.otf');
+}
+@font-face {
+    font-family: ethos-nova-regular;
+    src: url('../../../../fonts/ethos-nova/EthosNova-Regular.otf');
+}
+@font-face {
+    font-family: ethos-nova-thin;
+    src: url('../../../../fonts/ethos-nova/EthosNova-Thin.otf');
+}
+
+
+
+
+.rota-bold{
+    font-family: rota-bold;
+}
+.rota-light{
+    font-family: rota-light;
+}
+.rota-medium{
+    font-family: rota-medium;
+}
+.rota-regular{
+    font-family: rota-regular;
+}
+.rota-medium{
+    font-family: rota-medium;
+}
+
+.ethos-nova-medium{
+    font-family: ethos-nova-medium;
+}
+.ethos-nova-regular{
+    font-family: ethos-nova-regular;
+}
+
+
+.team-bg{
+    background-color: rgba(168, 255, 87, 0.40);
+    backdrop-filter: blur(75px);
+}

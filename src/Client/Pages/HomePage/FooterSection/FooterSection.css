@@ -1,0 +1,50 @@
+@font-face {
+    font-family: rota-bold;
+    src: url('../../../../fonts/Rota/Rota-Bold.otf');
+}
+@font-face {
+    font-family: rota-bold;
+    src: url('../../../../fonts/Rota/Rota-Bold.otf');
+}
+@font-face {
+    font-family: rota-light;
+    src: url('../../../../fonts/Rota/Rota-Light.otf');
+}
+@font-face {
+    font-family: rota-medium;
+    src: url('../../../../fonts/Rota/Rota-Medium.otf');
+}
+@font-face {
+    font-family: ethos-nova-medium;
+    src: url('../../../../fonts/ethos-nova/EthosNova-Medium.otf');
+}
+@font-face {
+    font-family: ethos-nova-regular;
+    src: url('../../../../fonts/ethos-nova/EthosNova-Regular.otf');
+}
+
+.rota-bold{
+    font-family: rota-bold;
+}
+.rota-light{
+    font-family: rota-light;
+}
+.rota-medium{
+    font-family: rota-medium;
+}
+
+.ethos-nova-medium{
+    font-family: ethos-nova-medium;
+}
+.ethos-nova-regular{
+    font-family: ethos-nova-regular;
+}
+
+
+
+
+.footer-bg{
+    background-image: url('../../../../images/our-team/bg.png');
+    height: 100vh;
+    background-size: cover;
+}
